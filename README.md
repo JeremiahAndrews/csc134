@@ -1,4 +1,4 @@
 # csc134
 CSC 134 - C++ Spring 2024
 
-Im Jeremiah and some
+I'm Jeremiah and I like games that are generaly 2D roguelikes, but also some other genres like shooters.
